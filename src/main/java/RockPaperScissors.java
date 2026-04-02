@@ -1,15 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * Rock beats Scissors,
- * Scissors beat Paper,
- * Paper beats Rock,
- * Two identical moves are a draw.
- *
- */
-
 public class RockPaperScissors {
 
     public static String rps(String p1, String p2) {
