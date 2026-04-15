@@ -1,3 +1,5 @@
+package march_april;
+
 public class RemoveStringSpaces {
 
     public static String noSpace(final String x) {

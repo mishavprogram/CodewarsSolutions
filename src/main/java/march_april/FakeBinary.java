@@ -1,3 +1,5 @@
+package march_april;
+
 public class FakeBinary {
 
     public static final char ZERO = '0';

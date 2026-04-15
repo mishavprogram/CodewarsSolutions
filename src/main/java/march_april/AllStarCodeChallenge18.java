@@ -1,3 +1,5 @@
+package march_april;
+
 public class AllStarCodeChallenge18 {
 
     public static int strCount(String str, char letter) {
